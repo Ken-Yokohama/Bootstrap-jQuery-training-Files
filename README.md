@@ -1,2 +1,9 @@
 # Bootstrap-jQuery-training-Files
-Training files used to learn Bootstrap &amp; jQuery
+
+
+Here are the training Files I've used to test, explore and create projects using Bootstrap & jQuery
+
+
+Among these Files Include:
+
+- Bootstrap Installation
