@@ -8,3 +8,4 @@ Among these Files Include:
 
 - Bootstrap Installation
 - DOM
+- jQuery
